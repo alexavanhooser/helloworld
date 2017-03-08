@@ -1,0 +1,49 @@
+/*=================UNIVERSALS================*/
+.black{
+  background-color: #000;
+}
+
+.gutter{
+  margin-left: 4px;
+  margin-right: 4px;
+}
+
+.gutter-left{
+  margin-left: 48px;
+}
+
+.gutter-right{
+  margin-right: 48px;
+}
+
+.xsmall{
+  height: 30px;
+}
+
+.small{
+  height: 90px;
+}
+
+.med{
+  height: 200px;
+}
+
+.large{
+  height: 500px;
+}
+
+.container{
+  margin-top: 30px;
+}
+
+.gutter-bottom-small{
+  margin-bottom: 32px;
+}
+
+.gutter-bottom-med{
+  margin-bottom: 48px;
+}
+
+.gutter-bottom-lg{
+  margin-bottom: 64px;
+}
